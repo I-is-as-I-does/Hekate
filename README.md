@@ -1,7 +1,5 @@
 # Hekate
 
-![Hekate](Hekate.jpg)
-
 Handles functions and methods to be runned at shutdown.
 
 - Provide priority levels: 1 -high, 2 -normal, 3 -low;
@@ -58,3 +56,6 @@ Sure! You can take a loot at [CONTRIBUTING](CONTRIBUTING.md).
 ## License
 
 This project is under the MIT License; cf. [LICENSE](LICENSE) for details.
+
+
+![Hekate](Hekate.jpg)
