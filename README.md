@@ -10,8 +10,6 @@ Handles functions and methods to be runned at shutdown.
 
 Very handy for log buffering, mail piling, database closing, etc.
 
-![Hekate](Hekate.jpg)
-
 ## Doc
 
 ```php
@@ -50,6 +48,9 @@ if($registrationId === false){
     // handle it the way you prefer
 }
 ```
+
+![Hekate](Hekate.jpg)
+
 
 ## Contributing
 
