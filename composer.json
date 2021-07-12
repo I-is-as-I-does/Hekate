@@ -1,0 +1,24 @@
+{
+    "name": "ssitu/hekate",
+    "description": "Handles functions and methods to be runned at shutdown.",
+    "type": "library",
+    "keywords" :["php", "shutdown", "handler"],
+    "homepage":"https://github.com/I-is-as-I-does/Hekate",
+    "license": "MIT",
+    "readme":"README.md",
+    "authors": [
+        {
+            "name": "I-is-as-I-does",
+            "email": "66915011+I-is-as-I-does@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+       
+    },
+    "autoload": {
+        "psr-4": {
+            "SSITU\\Hekate\\": "src"
+        }
+    }
+}
