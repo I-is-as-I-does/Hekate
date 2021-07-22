@@ -19,7 +19,7 @@
     "autoload": {
         "psr-4": {
             "SSITU\\Hekate\\": "src",
-            "SSITU\\Hekate\\Test\\": "test"
+            "SSITU\\Test\\Hekate\\": "test"
         }
     }
 }

@@ -1,10 +1,10 @@
 <?php
 /* This file is part of Hekate | SSITU | (c) 2021 I-is-as-I-does | MIT License */
-namespace SSITU\Hekate\Test;
+namespace SSITU\Test\Hekate;
 
 use \SSITU\Hekate\Hekate;
 
-class TestRunner
+class Trooper
 {
 
     private $Hekate;
